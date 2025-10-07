@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
+header { background: #333; color: #fff; text-align: center; padding: 1em; }
+.tagline { font-style: italic; color: #ddd; }
+section { margin: 2em; padding: 1em; background: #fff; border-radius: 5px; }
+footer { text-align: center; padding: 1em; font-size: 0.9em; color: #555; }
